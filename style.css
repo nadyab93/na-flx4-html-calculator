@@ -1,0 +1,18 @@
+html, body { 
+  height: 100%;
+  width: 100%;
+}
+
+table{
+  border: 4px green;
+}
+th {
+  border: red;
+  text-align: right;
+}
+td {
+  border: 2px red;
+  text-align: center;
+  padding:  1.5em;
+}
+  
